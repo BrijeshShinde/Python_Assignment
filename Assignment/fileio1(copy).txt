@@ -8,6 +8,3 @@ or should add guidelines for AI while developing
 11
 HI
 True
-11
-HI
-True
